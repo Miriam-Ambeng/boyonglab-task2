@@ -6,7 +6,7 @@
      - copy the link 🔗  below and paste on your CLI
 
 ```bash
-git clone https://github.com/Aghetseh-Gabriel/boyonglab-web-demo.git
+git clone https://github.com/Aghetseh-Gabriel/boyonglab-task2.git
 ```
 ### Note
     - You must be connected to the internet to complete this process.
